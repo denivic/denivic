@@ -8,9 +8,9 @@
     <tbody>
         <tr>
             <td>
-                <img src="https://github-readme-stats-theta-one-37.vercel.app/api/top-langs/?username=denivic&theme=radical&langs_count=10&layout=compact&exclude_repo=SR-Tools,ScriptFunctions&hide=Pascal&border_color=000000">
+                <img src="https://github-readme-stats-indol-three-35.vercel.app/api/top-langs/?username=denivic&theme=radical&langs_count=10&layout=compact&exclude_repo=SR-Tools,ScriptFunctions&hide=Pascal&border_color=000000">
             </td>
-            <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Denivic&theme=radical&hide_border=false&border=000000&date_format=M%20j%5B%2C%20Y%5D&type=png" alt="GitHub Streak" /></a></td>
+            <td><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-phi-orcin.vercel.app?user=denivic&theme=radical" alt="GitHub Streak" /></a></td>
         </tr>
     </tbody>
 </table>
